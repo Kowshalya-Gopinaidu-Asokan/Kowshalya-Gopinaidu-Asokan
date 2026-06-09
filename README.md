@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kowshalya Asokan
+# 👋 Hey, I'm Kowshalya Gopinaidu Asokan
 
 🚀 Frontend Engineer with 6 years of experience crafting scalable, fast, and user-friendly web applications  
 🌍 Based in Germany | Open to Frontend / React / Full Stack opportunities  
@@ -71,4 +71,4 @@ Anna University, Chennai
 
 ---
 
-💬 **“I believe great UI is invisible — it just works, flawlessly..”**
+💬 **“I believe great UI is invisible,When it just works flawlessly..”**
