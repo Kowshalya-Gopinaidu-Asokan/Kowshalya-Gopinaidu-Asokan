@@ -67,7 +67,10 @@ Anna University, Chennai
 
 💼 LinkedIn: linkedin.com/in/kowshalyaasokan  
 📧 Email: kowshalya.asokan@outlook.com  
-📍 Open to opportunities in Germany  
+📍 Open to opportunities in Germany
+
+## Portfolio
+ https://kowshalya-portfolio.netlify.app/
 
 ---
 
